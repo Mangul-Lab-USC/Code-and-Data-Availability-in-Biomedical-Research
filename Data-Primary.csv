@@ -1,0 +1,201 @@
+PMC_ID,PMC_Date,Journal,Bioinformatics (Yes/No)?,Data Availability (Yes/No)?,"If Yes, where do they share the data? (SRA/GEO/Other/Multiple)",SpecificDataset,Code Availability (Yes/No)?,What does their code provide?,"If Tool/ Database/Package, where do they share code?","Not a tool/ package, Where do they share code?",Code Availability in supplementary file (Yes/No)?,Code availability in Repository (GitHub/SourceForge/Other),"If code availability is Yes, do they share code as Notebooks? (Yes/No)","If they share as Notebook, are there multiple Notebooks or single? (Multiple/Single)","If Code Availability is Yes, do they share it as R Markdown (.Rmd)?",Summary Data (Yes/No),Code Availability Statement (Yes/No),Data Availability Statement (Yes/No),Number of Citations
+PMC6440112,3/29/2019,BMC_Genomics,Yes,Yes,Other,Other (BioProject),No,Available to authorised people,,,No,-,-,-,-,No,No,Yes,14
+PMC6401248,12/26/2018,Nat_Biotechnol,Yes,Yes,Other,Other (BioProject),No,Available upon request,,,No,-,-,-,-,No,Yes,Yes,129
+PMC5893388,1/25/2018,Nat_Genet,Yes,Yes,GEO,GEO,No,Available upon request/ Broken link,,,No,-,-,-,-,No,No,Yes,97
+PMC6652137,7/24/2019,BMC_Bioinformatics,Yes,Yes,SRA,SRA,No,Database,,,No,-,-,-,-,No,No,Yes,0
+PMC5485693,6/26/2017,BMC_Genomics,Yes,No,-,-,No,Database/ Web Tool,,,No,-,-,-,-,No,No,Yes,36
+PMC6813132,10/24/2019,Genome_Biol,Yes,Yes,SRA,SRA,No,R package,Github,,No,-,-,-,-,Yes,No,Yes,4
+PMC6019788,6/25/2018,BMC_Genomics,Yes,Yes,Multiple,Multiple (GEO and SRA),No,Reference,,,No,-,-,-,-,No,No,Yes,8
+PMC6580472,6/17/2019,BMC_Genomics,Yes,Yes,GEO,GEO,No,Reference,,,No,-,-,-,-,No,No,Yes,5
+PMC6958677,1/13/2020,BMC_Genomics,Yes,Yes,GEO,GEO,No,Reference,,,No,-,-,-,-,No,No,Yes,8
+PMC6971885,1/20/2020,BMC_Genomics,Yes,Yes,Other,Other (BioProject),No,Reference,,,No,-,-,-,-,No,No,Yes,6
+PMC6167834,10/1/2018,BMC_Genomics,Yes,Yes,SRA,SRA,No,Reference,,,No,-,-,-,-,No,No,Yes,6
+PMC5217215,1/5/2017,BMC_Genomics,Yes,Yes,SRA,SRA,No,Reference,,,No,-,-,-,-,No,No,Yes,27
+PMC6332668,1/14/2019,BMC_Genomics,Yes,Yes,SRA,SRA,No,Reference,,,No,-,-,-,-,No,No,Yes,9
+PMC6898958,12/6/2019,Genome_Biol,Yes,Yes,SRA,SRA,No,Reference,,,No,-,-,-,-,No,No,Yes,2
+PMC5080738,10/25/2016,Genome_Biol,Yes,Yes,GEO,GEO,No,Reference,,,No,-,-,-,-,No,No,Yes,146
+PMC5637252,10/11/2017,BMC_Bioinformatics,Yes,Yes,SRA,SRA,No,Tool,Bitbucket,,No,-,-,-,-,No,No,No,7
+PMC5766199,8/9/2017,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,Tool,Github,,No,-,-,-,-,No,No,No,23
+PMC5996513,6/11/2018,BMC_Bioinformatics,Yes,Yes,SRA,SRA,No,Tool,Github,,No,-,-,-,-,No,No,Yes,1
+PMC5435966,1/28/2017,Nucleic_Acids_Res,Yes,Yes,SRA,SRA,No,Tool,Github,,No,-,-,-,-,No,No,No,0
+PMC5860201,9/5/2017,Bioinformatics,Yes,Yes,SRA,SRA,No,Tool,Github,,No,-,-,-,-,No,No,No,9
+PMC5382505,4/5/2017,BMC_Bioinformatics,Yes,Yes,Other,Other (BioProject),No,Tool,Github,,No,-,-,-,-,No,No,Yes,41
+PMC5600148,3/6/2017,Nat_Methods,Yes,Yes,Other,Other (Supplementary),No,Tool,Github,,No,-,-,-,-,No,No,Yes,2344
+PMC5909256,4/19/2018,BMC_Genomics,Yes,Yes,Multiple,Multiple,No,Tool,Github,,No,-,-,-,-,No,No,Yes,8
+PMC6483256,4/15/2019,PLoS_Comput_Biol,Yes,Yes,GEO,GEO,No,Tool,Github,,No,-,-,-,-,No,No,Yes,28
+PMC4910249,6/16/2016,BMC_Bioinformatics,Yes,Yes,SRA,SRA,No,Tool,Github,,No,-,-,-,-,No,No,Yes,63
+PMC6853649,4/26/2019,Bioinformatics,Yes,Yes,Multiple,"Multipe (GEO, GitHub)",No,Tool,Github,,No,-,-,-,-,No,No,No,28
+PMC5634843,10/10/2017,BMC_Bioinformatics,Yes,Yes,SRA,SRA,No,Tool,Github,,No,-,-,-,-,No,No,Yes,20
+PMC5813387,2/14/2018,BMC_Genomics,Yes,Yes,GEO,GEO,No,Tool,Github,,No,-,-,-,-,Yes,No,Yes,10
+PMC5924695,5/1/2017,Nat_Methods,Yes,Yes,SRA,SRA,No,Tool,Github,,No,-,-,-,-,Yes,No,Yes,338
+PMC5482724,4/12/2017,Nat_Methods,Yes,Yes,Other,Other (BioProject),No,Tool,Github,,No,-,-,-,-,Yes,No,Yes,94
+PMC6176506,10/8/2018,Genome_Biol,Yes,Yes,SRA,SRA,No,Tool,Supplementary/GitHub,,No,-,-,-,-,Yes,No,Yes,9
+PMC6235447,10/1/2018,Nat_Methods,Yes,Yes,Other,Other (BioProject),No,Tool,Website,,No,-,-,-,-,No,No,No,366
+PMC6407284,3/7/2019,BMC_Bioinformatics,Yes,Yes,SRA,SRA,No,Tool ,GitHub,,No,-,-,-,-,Yes,No,Yes,11
+PMC4784281,3/9/2016,BMC_Genomics,Yes,Yes,SRA,SRA,No,Tool (Broken Link),,,No,-,-,-,-,No,No,Yes,10
+PMC5097360,11/4/2016,BMC_Genomics,Yes,Yes,GEO,GEO,No,Tool (Link broken),,,No,-,-,-,-,No,No,Yes,12
+PMC5120557,11/22/2016,BMC_Genomics,Yes,Yes,SRA,SRA,No,Tool (Python Package),Github,,No,-,-,-,-,Yes,No,No,88
+PMC6916105,12/17/2019,Genome_Med,Yes,Yes,SRA,SRA,No,Tool (R package),Github,,No,-,-,-,-,No,No,Yes,2
+PMC6929456,12/24/2019,BMC_Genomics,Yes,Yes,GEO,GEO,No,Tool (R package),Github,,No,-,-,-,-,No,No,Yes,4
+PMC6855567,11/4/2019,PLoS_Comput_Biol,Yes,Yes,GEO,GEO,No,Tool (R package),Github,,No,-,-,-,-,No,No,Yes,3
+PMC5888655,1/18/2018,Nucleic_Acids_Res,Yes,No,-,-,No,Tool (R package),Github,,No,-,-,-,-,Yes,No,No,47
+PMC5939227,2/21/2017,Bioinformatics,Yes,Yes,GEO,GEO,No,Tool (R package),Github,,No,-,-,-,-,Yes,No,No,14
+PMC5499651,4/5/2017,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,Tool (R-package/ Broken Link),yCrypticRNAs,,No,-,-,-,-,No,No,No,25
+PMC5109843,11/14/2016,BMC_Bioinformatics,Yes,Yes,GEO,GEO,No,Tool/Method (No code),,,No,-,-,-,-,No,No,Yes,9
+PMC7055922,2/21/2020,PLoS_Comput_Biol,Yes,Yes,Multiple,"Multiple (GEO, ENCODE)",No,Web based Tool,Github,,No,-,-,-,-,Yes,No,Yes,9
+PMC5237319,1/13/2017,BMC_Bioinformatics,Yes,Yes,GEO,GEO,No,Web Tool (Broken Link),,,No,-,-,-,-,No,No,No,4
+PMC5604164,9/18/2017,BMC_Genomics,Yes,Yes,Other,Other (Supplementary),No,,,,No,-,-,-,-,No,No,Yes,11
+PMC6649756,6/8/2019,Nucleic_Acids_Res,Yes,No,-,-,No,,,,No,-,-,-,-,No,No,No,9
+PMC4698792,1/4/2016,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,26
+PMC7147004,4/9/2020,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,3
+PMC6794750,10/15/2019,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,0
+PMC5324241,2/23/2017,BMC_Genomics,Yes,Yes,Multiple,Multiple (GEO and SRA),No,,,,No,-,-,-,-,No,No,Yes,0
+PMC6383288,2/21/2019,Genome_Biol,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,Yes,28
+PMC5657050,10/16/2017,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,9
+PMC6468165,1/30/2019,Nucleic_Acids_Res,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,No,8
+PMC6847712,9/19/2019,Nucleic_Acids_Res,Yes,Yes,SRA,Other (European Nucleotide Archive),No,,,,No,-,-,-,-,No,No,Yes,4
+PMC5217437,1/5/2017,BMC_Genomics,Yes,Yes,Other,"Multiple (DDBJ, BioProject)",No,,,,No,-,-,-,-,No,No,No,12
+PMC5970459,5/25/2018,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,14
+PMC5389579,1/13/2017,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,60
+PMC6025837,6/28/2018,BMC_Genomics,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,Yes,3
+PMC6821342,9/10/2019,Nucleic_Acids_Res,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,Yes,3
+PMC6009600,3/21/2018,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,73
+PMC4815170,3/31/2016,Genome_Biol,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,71
+PMC4880872,5/25/2016,BMC_Genomics,Yes,Yes,Multiple,"Multiple (European Nucleotide Archive, SRA)",No,,,,No,-,-,-,-,No,No,No,34
+PMC6322650,7/2/2018,Nat_Methods,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,53
+PMC5117602,11/21/2016,BMC_Genomics,Yes,Yes,SRA,Other (European Nucleotide Archive),No,,,,No,-,-,-,-,No,No,Yes,41
+PMC5392922,4/17/2017,BMC_Genomics,Yes,Yes,Multiple,"Multiple (BioProject, SRA)",No,,,,No,-,-,-,-,No,No,Yes,31
+PMC6044037,7/13/2018,BMC_Genomics,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,No,2
+PMC6988223,1/28/2020,BMC_Bioinformatics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,5
+PMC5888794,1/27/2018,Nucleic_Acids_Res,Yes,Yes,Other,Other (ArrayExpress),No,,,,No,-,-,-,-,No,No,Yes,14
+PMC6924009,12/19/2019,BMC_Genomics,Yes,Yes,Other,Other (BioProject),No,,,,No,-,-,-,-,No,No,Yes,2
+PMC6061795,6/7/2018,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,10
+PMC6157050,9/25/2018,BMC_Genomics,Yes,Yes,Multiple,"Multiple (BioProject, SRA)",No,,,,No,-,-,-,-,No,No,Yes,16
+PMC6614823,5/22/2019,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,29
+PMC6790045,10/12/2019,BMC_Genomics,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,Yes,5
+PMC5012078,9/6/2016,BMC_Genomics,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,No,21
+PMC5888115,1/31/2018,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,25
+PMC6498663,5/2/2019,BMC_Bioinformatics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,11
+PMC5137429,8/26/2016,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,43
+PMC4987945,5/13/2016,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,58
+PMC6696682,8/16/2019,BMC_Genomics,Yes,Yes,Other,Other (BioProject),No,,,,No,-,-,-,-,No,No,Yes,9
+PMC5359929,3/20/2017,BMC_Bioinformatics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,9
+PMC7017498,2/12/2020,BMC_Genomics,Yes,Yes,Other,Other (BioProject),No,,,,No,-,-,-,-,No,No,Yes,4
+PMC6198530,10/22/2018,Genome_Med,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,14
+PMC5622369,7/26/2017,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,11
+PMC7081601,3/19/2020,BMC_Genomics,Yes,Yes,Other,Other (BioProject),No,,,,No,-,-,-,-,No,No,Yes,1
+PMC6624964,7/11/2019,BMC_Genomics,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,Yes,8
+PMC6154909,9/24/2018,BMC_Genomics,Yes,Yes,SRA,Other (DDBJ),No,,,,No,-,-,-,-,No,No,Yes,8
+PMC5397757,4/20/2017,BMC_Genomics,Yes,Yes,Multiple,"Multiple (BioProject, SRA)",No,,,,No,-,-,-,-,No,No,Yes,13
+PMC5716240,12/4/2017,BMC_Genomics,Yes,Yes,Multiple,"Multiple (BioProject, SRA)",No,,,,No,-,-,-,-,No,No,Yes,4
+PMC4982270,8/11/2016,BMC_Genomics,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,Yes,44
+PMC5389478,11/29/2016,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,18
+PMC5540598,7/19/2017,PLoS_Comput_Biol,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,Yes,140
+PMC5737879,8/18/2017,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,35
+PMC6792331,10/11/2019,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,1
+PMC5587731,5/26/2017,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,13
+PMC7076944,3/17/2020,BMC_Genomics,Yes,Yes,Other,Other (BioProject),No,,,,No,-,,,,No,No,Yes,8
+PMC5737555,8/28/2017,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,38
+PMC4886428,5/31/2016,Genome_Med,Yes,Yes,Multiple,Multiple (GEO and SRA),No,,,,No,-,-,-,-,No,No,Yes,29
+PMC6728210,6/15/2019,Nat_Biotechnol,Yes,Yes,Other,Other (BioProject),No,,,,No,-,-,-,-,No,No,Yes,76
+PMC5517040,7/5/2017,PLoS_Comput_Biol,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,49
+PMC6390631,2/26/2019,BMC_Genomics,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,Yes,11
+PMC6456935,4/4/2019,BMC_Genomics,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,Yes,9
+PMC6103881,8/22/2018,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,6
+PMC5146858,12/8/2016,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,11
+PMC4862131,5/9/2016,Genome_Biol,Yes,Yes,SRA,Other (European Nucleotide Archive),No,,,,No,-,-,-,-,No,No,No,114
+PMC5946446,5/10/2018,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,23
+PMC6547578,6/3/2019,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,10
+PMC4899892,6/9/2016,BMC_Genomics,Yes,Yes,SRA,Other (European Nucleotide Archive),No,,,,No,-,-,-,-,No,No,Yes,21
+PMC5493111,6/30/2017,BMC_Genomics,Yes,Yes,Other,Other (BioProject),No,,,,No,-,-,-,-,No,No,Yes,36
+PMC6419456,3/14/2019,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,8
+PMC5780764,1/19/2018,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,8
+PMC5073942,10/6/2016,BMC_Bioinformatics,Yes,Yes,Multiple,"Multiple (GEO, Agilent Hu25K platform)",No,,,,No,-,-,-,-,No,No,No,9
+PMC5325768,12/13/2016,Nat_Genet,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,41
+PMC6624984,7/12/2019,Genome_Biol,Yes,Yes,Other,Other (BioProject),No,,,,No,-,-,-,-,No,No,Yes,27
+PMC5780745,1/19/2018,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,4
+PMC7060608,3/6/2020,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,1
+PMC5237217,1/13/2017,BMC_Genomics,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,Yes,16
+PMC5887285,2/26/2018,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,16
+PMC5610455,9/22/2017,BMC_Genomics,Yes,Yes,Other,Other (BioProject),No,,,,No,-,-,-,-,No,No,Yes,10
+PMC4840974,4/22/2016,BMC_Bioinformatics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,25
+PMC4748552,2/9/2016,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,5
+PMC6429711,3/21/2019,BMC_Genomics,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,Yes,4
+PMC6945570,1/6/2020,BMC_Genomics,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,Yes,10
+PMC5474855,6/19/2017,BMC_Genomics,Yes,Yes,Other,Other (BioProject),No,,,,No,-,-,-,-,No,No,Yes,110
+PMC7102943,1/20/2020,Nucleic_Acids_Res,Yes,Yes,Other,Other (BioProject),No,,,,No,-,-,-,-,No,No,Yes,8
+PMC6440112,3/29/2019,BMC_Genomics,Yes,Yes,Other,Other (BioProject),No,,,,No,-,-,-,-,No,No,Yes,14
+PMC5541722,8/2/2017,BMC_Genomics,Yes,Yes,Other,Other (BioProject),No,,,,No,-,-,-,-,No,No,Yes,29
+PMC6508550,7/25/2018,Nat_Methods,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,97
+PMC6511871,3/4/2019,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,13
+PMC6592845,3/21/2019,Nat_Methods,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,No,17
+PMC4906609,6/14/2016,BMC_Genomics,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,No,18
+PMC5737846,6/6/2017,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,19
+PMC5769491,1/15/2018,Genome_Biol,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,11
+PMC6326816,10/17/2018,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,7
+PMC6451100,12/27/2018,Nucleic_Acids_Res,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,Yes,4
+PMC6735797,7/24/2019,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,27
+PMC5282643,1/31/2017,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,18
+PMC5499819,4/10/2017,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,31
+PMC6292049,12/12/2018,BMC_Bioinformatics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,2
+PMC5146907,12/8/2016,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,44
+PMC5146904,12/8/2016,BMC_Genomics,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,Yes,25
+PMC6006554,6/18/2018,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,16
+PMC5984780,6/1/2018,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,2
+PMC4729133,1/27/2016,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,18
+PMC4979127,8/9/2016,BMC_Genomics,Yes,Yes,Other,Other (BioProject),No,,,,No,-,-,-,-,No,No,Yes,13
+PMC7137253,4/7/2020,BMC_Genomics,Yes,Yes,Other,Other (BioProject),No,,,,No,-,-,-,-,No,No,Yes,11
+PMC6092841,8/14/2018,BMC_Genomics,Yes,Yes,Other,Other (BioProject),No,,,,No,-,-,-,-,No,No,Yes,10
+PMC5806438,2/8/2018,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,17
+PMC6007420,5/4/2018,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,6
+PMC6431027,3/22/2019,BMC_Genomics,Yes,Yes,Multiple,"Multiple (BioProject, DDBJ, ArrayExpress)",No,,,,No,-,-,-,-,No,No,Yes,10
+PMC6612224,7/5/2019,BMC_Genomics,Yes,Yes,Other,Other (BioProject),No,,,,No,-,-,-,-,No,No,Yes,3
+PMC5737695,8/30/2017,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,142
+PMC4908323,2/15/2016,Bioinformatics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,28
+PMC5009723,4/25/2016,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,22
+PMC6330444,1/11/2019,BMC_Genomics,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,Yes,4
+PMC5557254,8/14/2017,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,16
+PMC4914085,2/29/2016,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,92
+PMC6158488,6/25/2018,Nucleic_Acids_Res,Yes,Yes,Multiple,"Multiple (GEO, DDBJ)",No,,,,No,-,-,-,-,No,No,Yes,15
+PMC4785637,3/10/2016,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,46
+PMC6307297,12/27/2018,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,6
+PMC5737658,6/7/2017,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,3
+PMC5389576,10/13/2016,Nucleic_Acids_Res,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,No,21
+PMC5356398,3/16/2017,BMC_Bioinformatics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,3
+PMC4855877,5/4/2016,BMC_Genomics,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,No,15
+PMC5587750,5/26/2017,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,19
+PMC5220608,1/9/2017,BMC_Genomics,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,Yes,7
+PMC5389517,10/5/2016,Nucleic_Acids_Res,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,No,15
+PMC5805582,12/17/2017,Nat_Genet,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,73
+PMC5435916,1/23/2017,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,36
+PMC7066782,3/12/2020,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,Yes,0
+PMC4889916,2/9/2016,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,87
+PMC4770247,1/29/2016,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,31
+PMC5146907,12/8/2016,BMC_Genomics,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,No,No,No,44
+PMC7171827,4/20/2020,BMC_Genomics,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,No,No,Yes,1
+PMC6844030,11/11/2019,Genome_Biol,Yes,Yes,SRA,SRA,No,,,,No,-,-,-,-,Yes,No,Yes,3
+PMC5330809,12/31/2016,Nat_Methods,Yes,Yes,GEO,GEO,No,,,,No,-,-,-,-,Yes,No,Yes,277
+PMC5621628,7/28/2017,Nat_Genet,Yes,Yes,GEO,GEO,Yes,Scripts,,GitHub,No,GitHub,No,No,No,No,Yes,Yes,55
+PMC6882729,2/25/2019,Nat_Genet,Yes,Yes,Other,Other (BioProject),Yes,Scripts,,GitHub,No,GitHub,No,No,No,No,No,No,150
+PMC4914117,4/30/2016,Nucleic_Acids_Res,Yes,Yes,GEO,GEO,Yes,Scripts,,GitHub,No,GitHub,No,No,No,No,No,No,20
+PMC6755906,1/28/2019,Nat_Methods,Yes,Yes,SRA,SRA,Yes,Scripts,,GitHub,No,GitHub,No,No,No,No,No,Yes,44
+PMC6721284,9/2/2019,Genome_Biol,Yes,Yes,SRA,SRA,Yes,Scripts,,GitHub,No,GitHub,No,No,No,No,No,Yes,24
+PMC6657090,7/24/2019,Genome_Med,Yes,Yes,Multiple,"Multiple (JGA,dbSUPER,CTCFBSDB2.0,DRA, UCSC)",Yes,Scripts,,GitHub,No,GitHub,No,No,No,No,Yes,Yes,1
+PMC6211426,11/1/2018,BMC_Bioinformatics,Yes,Yes,Other,Other (BioProject),Yes,Scripts,,GitHub,No,GitHub,No,No,No,No,Yes,Yes,16
+PMC7068914,3/11/2020,BMC_Bioinformatics,Yes,Yes,GEO,GEO,Yes,Scripts,,GitHub,No,GitHub,No,No,No,No,Yes,No,5
+PMC5938111,2/18/2018,Nat_Biotechnol,Yes,Yes,GEO,GEO,Yes,Scripts,,GitHub,No,GitHub,No,No,No,Yes,Yes,Yes,258
+PMC6756480,9/2/2019,Nat_Genet,Yes,Yes,GEO,GEO,Yes,Scripts,,GitHub,No,GitHub,No,No,No,Yes,No,Yes,36
+PMC6420023,3/5/2019,PLoS_Comput_Biol,Yes,Yes,Other,Other (GitHub),Yes,Scripts,,GitHub,No,GitHub,No,No,No,Yes,No,Yes,72
+PMC7077173,3/17/2020,BMC_Genomics,Yes,Yes,GEO,GEO,Yes,Scripts,,GitHub,No,GitHub,Yes,Multiple (2),No,Yes,No,Yes,6
+PMC6657096,7/25/2019,BMC_Genomics,Yes,Yes,GEO,GEO,Yes,Scripts,,GitHub,No,GitHub,No,No,No,Yes,No,Yes,11
+PMC6263542,11/29/2018,BMC_Genomics,Yes,Yes,GEO,GEO,Yes,Scripts,,GitHub,No,GitHub,No,No,No,Yes,No,Yes,11
+PMC6337828,1/17/2019,BMC_Bioinformatics,Yes,Yes,SRA,SRA,Yes,Scripts,,GitHub,No,GitHub,Yes,Multiple (2),No,Yes,No,Yes,8
+PMC6884681,9/23/2019,Nat_Methods,Yes,Yes,GEO,GEO,Yes,Scripts,,Supplementary,Yes,-,No,No,No,No,No,Yes,55
+PMC5124311,11/25/2016,BMC_Genomics,Yes,Yes,GEO,GEO,Yes,Scripts,,Supplementary,Yes,-,No,No,No,No,No,Yes,38
+PMC6290506,12/11/2018,Genome_Biol,Yes,Yes,GEO,GEO,Yes,Scripts,,Supplementary/GitHub,Yes,GitHub,No,No,Yes,Yes,No,Yes,13
+PMC6020354,6/27/2018,Genome_Biol,Yes,Yes,GEO,GEO,Yes,Scripts,,Supplementary/GitHub,Yes,GitHub,Yes,Multiple (3),Yes,Yes,No,Yes,15
+PMC5286865,2/1/2017,BMC_Bioinformatics,Yes,Yes,GEO,GEO,Yes,Scripts,,WebPage,No,WebPage,No,No,No,No,No,Yes,3
+PMC6966897,1/16/2020,Genome_Biol,Yes,Yes,Other,Other (ENCODE),Yes,Scripts,,Zenodo,No,Zenodo,No,No,No,No,No,Yes,0
+PMC5764547,8/21/2017,Nat_Methods,Yes,Yes,GEO,GEO,Yes,Tool,Github,Supplementary/GitHub,Yes,GitHub,Yes,Multiple (>3),No,No,Yes,Yes,855
+PMC5870713,7/12/2017,Bioinformatics,Yes,Yes,GEO,GEO,Yes,Tool (but they also provide scripts to download data used for analysis),Github,,No,Github,No,No,No,No,No,No,38
+PMC6684315,5/30/2019,Nat_Methods,Yes,Yes,GEO,GEO,Yes,Tool (R package) but provide implementation scripts,Github,Github,No,-,-,-,-,Yes,No,Yes,60
